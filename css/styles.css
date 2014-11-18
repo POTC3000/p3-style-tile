@@ -42,7 +42,15 @@ section {
 	width: 50px;
 }
 
-
+.color-1 {
+	background: #91204D;
+}
+.color-2 {
+	background: #4894B0;
+}
+.pattern-1 {
+	background: url('../img/footer_lodyas.png')
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
